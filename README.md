@@ -32,25 +32,20 @@ manufacturing lot individually.  The second image shows Lot1 and Lot2 are well w
 
 ## T-Tests on Suspension Coils
 
-T-tests are performed to compare the mean of one dataset to another to determine if there is a statistical difference between the means of a sample 
-compared to the population.  Four t-tests were performed on the dataset comparing the combined lots against the population mean of 1500 PSI and the 
-three separate manufacturing lots against the population. 
+T-tests are performed to compare the mean of one dataset to another to determine if there is a statistical difference between the means of a sample compared to the population.  Four t-tests were performed on the MechaCare suspension coil dataset comparing the combined lots against the population mean of 1500 PSI and the three separate manufacturing lots against the population. 
 
 ![T_Test_Susp_Coil_PSI_All.png](https://github.com/dschul01/MechaCar_Statistical_Analysis/blob/main/Resources/T_Test_Susp_Coil_PSI_All.png)
-The screenshot above shows results of the t-test comparing the mean of all lots to the entire population.  The p-value of 0.06028 is above the significance level.  
-Therefore there isn't sufficient evidence to reject the null hypothesis meaning the two means are statistically similar.  
+The screenshot above shows results of the t-test comparing the mean of all lots to the entire population.  The p-value of 0.06028 is above the significance level.  Therefore there isn't sufficient evidence to reject the null hypothesis meaning the two means are statistically similar.  
 
 ![T_Test_Susp_Coil_PSI_Lot1.png](https://github.com/dschul01/MechaCar_Statistical_Analysis/blob/main/Resources/T_Test_Susp_Coil_PSI_Lot1.png)
 The screenshot above shows results of the t-test comparing the mean of 'Lot 1' to the entire population.  The p-value of 1 is above the significance level and the means
 are identical.  Therefore there isn't sufficient evidence to reject the null hypothesis. 
 
 ![T_Test_Susp_Coil_PSI_Lot2.png](https://github.com/dschul01/MechaCar_Statistical_Analysis/blob/main/Resources/T_Test_Susp_Coil_PSI_Lot2.png)
-The screenshot above shows results of the t-test comparing the mean of 'Lot 2' to the entire population.  The p-value of 0.06072 is above the significance level.  
-Therefore there isn't sufficient evidence to reject the null hypothesis meaning the two means are statistically similar.
+The screenshot above shows results of the t-test comparing the mean of 'Lot 2' to the entire population.  The p-value of 0.06072 is above the significance level.  Therefore there isn't sufficient evidence to reject the null hypothesis meaning the two means are statistically similar.
 
 ![T_Test_Susp_Coil_PSI_Lot3.png](https://github.com/dschul01/MechaCar_Statistical_Analysis/blob/main/Resources/T_Test_Susp_Coil_PSI_Lot3.png)
-The screenshot above shows results of the t-test comparing the mean of 'Lot 3' to the entire population.  The p-value of 0.04168 is below the significance level.  
-Therefore there is sufficient evidence to reject the null hypothesis meaning the two means are statistically different with 'Lot 3' having a mean of 1,496.14.
+The screenshot above shows results of the t-test comparing the mean of 'Lot 3' to the entire population.  The p-value of 0.04168 is below the significance level.  Therefore there is sufficient evidence to reject the null hypothesis meaning the two means are statistically different with 'Lot 3' having a mean of 1,496.14.
 
 
 ## Study Design: MechaCar vs Competition
