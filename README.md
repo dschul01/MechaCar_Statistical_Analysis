@@ -3,7 +3,7 @@ Utilize R to assist automotive manufacturing
 
 ## Purpose
 
-The purpose of this project is to utilize R in reviewing automotive production data to provide insights which may help the manufacturing team.  R is used to perform multiple linear regression analysis
+The purpose of this project is to utilize R in reviewing automotive production data to provide insights which may help the MechaCar manufacturing team.  R is used to perform multiple linear regression analysis
 to identify which variables predict mpg, provide summary statistics on production data, and to run t-tests to determine if manufacturing lots are consistent with the population.  Additionally, a statistical study
 design on an approach for comparing performance of MechaCar vehicles against competitors is provided.
 
@@ -16,7 +16,10 @@ Does this linear model predict mpg of MechaCar prototypes effectively? Why or wh
 
 ![LinearRegression_MPG.png](https://github.com/dschul01/MechaCar_Statistical_Analysis/blob/main/Resources/LinearRegression_MPG.png)
 
-<img src="https://github.com/dschul01/MechaCar_Statistical_Analysis/blob/main/Resources/LinearRegression_MPG.png" width="800" height="400">
+![](Resources/LinearRegression_MPG.png)
+
+
+<img src="https://github.com/dschul01/MechaCar_Statistical_Analysis/blob/main/Resources/LinearRegression_MPG.png" width="600" height="200">
 
 
 ## Summary Statistics on Suspension Coils
