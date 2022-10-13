@@ -16,7 +16,7 @@ Does this linear model predict mpg of MechaCar prototypes effectively? Why or wh
 
 ![LinearRegression_MPG.png](https://github.com/dschul01/MechaCar_Statistical_Analysis/blob/main/Resources/LinearRegression_MPG.png)
 
-<img src="https://github.com/dschul01/MechaCar_Statistical_Analysis/blob/main/Resources/LinearRegression_MPG.png" width="600" height="200">
+<img src="https://github.com/dschul01/MechaCar_Statistical_Analysis/blob/main/Resources/LinearRegression_MPG.png" width="800" height="400">
 
 
 ## Summary Statistics on Suspension Coils
