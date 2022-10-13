@@ -1,5 +1,5 @@
 # MechaCar_Statistical_Analysis
-Utilize R to assist automotive manufacturing 
+Utilize R to provide analytical insight into automotive manufacturing variables. 
 
 ## Purpose
 
