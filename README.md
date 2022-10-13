@@ -14,8 +14,8 @@ Multiple linear regression analysis was performed to determine if any of a numbe
 amount of variance to the mpg values in the dataset.  These would be the vehicle length and ground clearance which both have p-values well below an 'extreme' significance level of 0.0001 indicating they have a statistically
 significant impact on mpg values.
 
-The slope of the linear model is not zero which is seen in the overall p-value of 5.35e-11, and therefore we reject the null hypothesis.  Additionally the R-squared value of 0.7149 indicates a 71.5% effective predictability on mpg of MechaCar prototypes.
-This reading is generally considered a high correlation between readings whereas a value below 0.5 is not.  
+The slope of the linear model is not zero which is seen in the overall p-value of 5.35e-11, and therefore we reject the null hypothesis.  Additionally the R-squared value of 0.7149 indicates 71.5% of MechaCar prototypes' mpg variability
+can be predicted by the independent variables analyzed. This reading is generally considered a high correlation between variables, whereas a value below 0.5 is not.  
 
 ![LinearRegression_MPG.png](https://github.com/dschul01/MechaCar_Statistical_Analysis/blob/main/Resources/LinearRegression_MPG.png)
 
