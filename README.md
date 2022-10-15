@@ -58,3 +58,6 @@ What are the metrics to test
 What is the null hypothesis or alternative hypothesis?
 What statistical test would you use to test the hypothesis? And why?
 What data is needed to run the statistical test?
+
+[^1]: Reference: Statista.com  "Most Important Factors When Buying a Care" by Martin Armstrong Sep 7, 2022
+(https://www.statista.com/chart/13075/most-important-factors-when-buying-a-car/#:~:text=According%20to%20data%20from%20Statista's,top%20priority%20when%20shopping%20around.)
