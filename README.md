@@ -50,20 +50,11 @@ The screenshot above shows results of the t-test comparing the mean of 'Lot 3' t
 
 ## Study Design: MechaCar vs Competition
 
-The most important factors which consumers consider when purchasing a car are fuel efficiency and safety according to Statista's Global Consumer Survey.[^1]  Therefore I would be testing city & highway fuel efficiency as well as safety ratings of MechaCar vehicles and comparing those to competing manufacturers.  The null
-hypothesis would be there is no differences between MechaCar's and key competitors' fuel efficiency and safety ratings metrics.  The ............
-Data necessary to run the statistical test would include both city and highway mpg measurements for each vehicle class of MechaCar and competitors' vehicles.  As for safety data, The National Highway Traffic Safety Administration (NHTSA) looks at frontal, side and rollover tests in determining their 5-Star safety ratings.[^2] Therefore the test 
-would be analyzing the data output from those tests. 
-
-
-statistical study that can quantify how the MechaCar performs against the competition.  What metrics would be
- of interest to a consumer: for a few examples, cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.
-
-address the following questions:
-What are the metrics to test
-What is the null hypothesis or alternative hypothesis?
-What statistical test would you use to test the hypothesis? And why?
-What data is needed to run the statistical test?
+Fuel efficiency and safety are the most important factors consumers consider when purchasing a car according to Statista's Global Consumer Survey.[^1]  Therefore I would be utilizing city & highway fuel efficiency and safety ratings metrics for the statitistical tests on MechaCar vehicles compared to competing manufacturers.  The null
+hypothesis would be there is no differences between MechaCar's and key competitors' fuel efficiency and safety ratings metrics.  Data necessary to run the statistical test would include both city and highway mpg measurements for each vehicle class of MechaCar and competitors' vehicles.As for safety data, 
+The National Highway Traffic Safety Administration (NHTSA) looks at frontal, side and rollover tests in determining their 5-Star safety ratings.[^2] Therefore the test would be analyzing the data output from those tests as well as crash avoidance and mitigation metrics on MechaCar and competitor vehicles.  
+An ideal dataset would contain results from every possible outcome or condition, but a representative sample would be used to be economically conscious. A one-sample t-Test would be performedto ensure the sample means are representative of the population mean.  A resulting p-value lower than 0.05 would provide significant
+evidence to reject the null hypothesis.  Additionally, a paired t-test would be used to compare metrics across vehicle classes and competitors as this test is used to compare samples each from different populations.
 
 
 [^1]: Martin Armstrong. "Most Important Factors When Buying a Car." Statista.com. September 3, 2022.
