@@ -50,9 +50,10 @@ The screenshot above shows results of the t-test comparing the mean of 'Lot 3' t
 
 ## Study Design: MechaCar vs Competition
 
-The most important factors consumers consider when purchasing a car are fuel efficiency and safety according to Statista's Global Consumer Survey [^1].  Therefore I would be testing city & highway fuel efficiency as well as safety ratings of MechaCar vehicles and comparing those to competing manufacturers.  The null
+The most important factors which consumers consider when purchasing a car are fuel efficiency and safety according to Statista's Global Consumer Survey.[^1]  Therefore I would be testing city & highway fuel efficiency as well as safety ratings of MechaCar vehicles and comparing those to competing manufacturers.  The null
 hypothesis would be there is no differences between MechaCar's and key competitors' fuel efficiency and safety ratings metrics.  The ............
-Data necessary to run the statistical test would include both city and highway miles per gallon (mpg) measurements for each vehicle class of MechaCar and competitors' vehicles.  The National Highway Traffic Safety Administration (NHTSA) looks at frontal, side and rollover tests in determining their 5-Star safety ratings [^2].
+Data necessary to run the statistical test would include both city and highway mpg measurements for each vehicle class of MechaCar and competitors' vehicles.  As for safety data, The National Highway Traffic Safety Administration (NHTSA) looks at frontal, side and rollover tests in determining their 5-Star safety ratings.[^2] Therefore the test 
+would be analyzing the data output from those tests. 
 
 
 statistical study that can quantify how the MechaCar performs against the competition.  What metrics would be
