@@ -50,6 +50,7 @@ The screenshot above shows results of the t-test comparing the mean of 'Lot 3' t
 
 ## Study Design: MechaCar vs Competition
 
+Research shows the most important factors consumers consider when purchasing a car are fuel efficiency and safety [^1]
 statistical study that can quantify how the MechaCar performs against the competition.  What metrics would be
  of interest to a consumer: for a few examples, cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.
 
